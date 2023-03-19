@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1642264725 source:d:\facultate\introducere in programare\proiectul 17 - deriv\proiectul 17 - deriv\main.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+
